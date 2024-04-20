@@ -1,3 +1,3 @@
-# biolog
-my biolog
-Live Demo http://yargc.rf.gd/
+***biography + blog = biolog***
+
+site live: http://yargc.rf.gd/blog.php
